@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import ttk
-from typing import Callable, Optional
+from typing import Callable
 from core.process import ProcessManager, ProcessInfo
 
 class ProcessListWidget(ttk.Frame):

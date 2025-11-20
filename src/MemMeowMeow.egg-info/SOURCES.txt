@@ -11,6 +11,7 @@ src/core/__init__.py
 src/core/memory.py
 src/core/process.py
 src/core/scanner.py
+src/core/scripting.py
 src/core/types.py
 src/gui/__init__.py
 src/gui/main_window.py
@@ -18,3 +19,4 @@ src/gui/widgets/__init__.py
 src/gui/widgets/address_table.py
 src/gui/widgets/process_list.py
 src/gui/widgets/scan_panel.py
+src/gui/widgets/script_editor.py
